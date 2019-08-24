@@ -10,21 +10,29 @@ Here is also my notes and helpfull tutorials, enjoy !
 
 ### Boolean Identities
 
-* Identity				a + 0 = a  
+* Identity  
+						a + 0 = a  
 						a * 1 = a  
-* Forgot the name		a + 1 = 1  
+* Forgot the name  
+						a + 1 = 1  
 						a * 0 = 0  
-* Idempotence			a + a = a  
+* Idempotence  
+						a + a = a  
 						a * a = a  
-* Complementation		a + a' = a  
+* Complementation  
+						a + a' = a  
 						a * a' = 0  
-* Distributivity		a + (b * c) = (a + b) * (a + c)  
+* Distributivity  
+						a + (b * c) = (a + b) * (a + c)  
 						a * (b + c) = (a * b) + (a * c)  
-* Associativity			a + (b + c) = (a + b) + c = a + b + c  
+* Associativity  
+						a + (b + c) = (a + b) + c = a + b + c  
 						a * (b * c) = (a * b) * c = a * b * c  
-* De Morgan's Laws		(a * b)' = a' + b'  
+* De Morgan's Laws  
+						(a * b)' = a' + b'  
 						(a + b)' = a' * b'  
-* Others				a'' = a  
+* Others  
+						a'' = a  
 						a + (a * b) = a  
 						a + (a' * b) = a + b  
 						a * (a + b) = a  
