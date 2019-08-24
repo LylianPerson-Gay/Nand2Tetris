@@ -20,7 +20,7 @@ Here is also my notes and helpfull tutorials, enjoy !
 						a * (b * c) = (a * b) * c = a * b * c  
 * De Morgan's Laws		(a * b)' = a' + b'  
 						(a + b)' = a' * b'  
-* Others				a'' = a 		a + (a * b) = a 
-						a + (a' * b) = a + b
-						a * (a + b) = a
-						(a + b) * (a + b') = a
+* Others				a'' = a 		a + (a * b) = a  
+						a + (a' * b) = a + b  
+						a * (a + b) = a  
+						(a + b) * (a + b') = a  
