@@ -10,10 +10,14 @@ Here is also my notes and helpfull tutorials, enjoy !
 
 ### Boolean Identities
 
-* Identity				a + 0 = a		a * 1 = a  
-* Forgot the name		a + 1 = 1		a * 0 = 0  
-* Idempotence			a + a = a		a * a = a  
-* Complementation		a + a' = a		a * a' = 0  
+* Identity				a + 0 = a  
+						a * 1 = a  
+* Forgot the name		a + 1 = 1  
+						a * 0 = 0  
+* Idempotence			a + a = a  
+						a * a = a  
+* Complementation		a + a' = a  
+						a * a' = 0  
 * Distributivity		a + (b * c) = (a + b) * (a + c)  
 						a * (b + c) = (a * b) + (a * c)  
 * Associativity			a + (b + c) = (a + b) + c = a + b + c  
@@ -24,3 +28,5 @@ Here is also my notes and helpfull tutorials, enjoy !
 						a + (a' * b) = a + b  
 						a * (a + b) = a  
 						(a + b) * (a + b') = a  
+
+### 
