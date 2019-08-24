@@ -4,8 +4,8 @@ Here is also my notes and helpfull tutorials, enjoy !
 
 ## Project 01 : Boolean Algebra
 
-* is for And  
-+ is for Or  
+\* is for And  
+\+ is for Or  
 ' is for Not
 
 ### Boolean Identities
