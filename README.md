@@ -4,9 +4,9 @@ Here is also my notes and helpfull tutorials, enjoy !
 
 ## Project 01 : Boolean Algebra
 
+' is for Not
 \* is for And  
 \+ is for Or  
-' is for Not
 
 ### Boolean Identities
 
@@ -38,4 +38,11 @@ Here is also my notes and helpfull tutorials, enjoy !
 						a * (a + b) = a  
 						(a + b) * (a + b') = a  
 
-### 
+### Truth Table to Boolean expression
+* **Product term**  
+A **product term** is a conjunction of litterals, where each litterals is either a variable or is negation.  
+Product terms is call like this because of the similarity of the operator AND and the multiplication.  
+
+* **Minterm**  
+A product term in wich each variable appears once (in Not or complemented form).  A Boolean function can be expressed as a sum of **minterms**.  
+For calculs all minterms of a boolean expression we use 2 power number of entries.  
